@@ -61,12 +61,6 @@ There's probably a better way to parse the data more efficiently, too.
 Install dependencies and launch:
 
 ```bash
-Double click launch_app_mac.sh or launch_app_mac.sh
-```
-
-Or run:
-
-```bash
 streamlit run app.py
 ```
 
