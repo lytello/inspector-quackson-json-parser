@@ -1,0 +1,10 @@
+Inspector Quackson is a tool for exploring and interacting with JSON data.
+
+**Features:**
+
+- **Load and Edit JSON**: Input or modify your JSON data using the provided text area.
+- **Table Exploration**: Automatically detect and display tables within your JSON data for navigation.
+- **Customizable Views**: Choose between a List or Table view to display your data.
+- **Column Selection**: Select which columns to display from each table.
+- **Search and Filter**: Use search terms to filter rows, and specify which columns to search in.
+- **Flexible Display Options**: Decide the number of rows to view and whether to display them sequentially or randomly.
